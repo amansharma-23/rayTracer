@@ -3,3 +3,7 @@ a.exe
 ray.h.gch
 vec3.h.gch
 image.ppm
+hittable.h.gch
+sphere.h.gch
+hittable_list.h.gch
+rtweekend.h.gch
